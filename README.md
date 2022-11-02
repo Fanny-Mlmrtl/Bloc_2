@@ -18,7 +18,7 @@ The dataset also includes questionnaire data gathered from participants at diffe
 
 ## Installation
 
-To install my project in local, you just need to git clone the repository (https://github.com/Fanny-Mlmrtl/Bloc_1). Then, create a virtual environment (see Environment Variables section).
+To install my project in local, you just need to git clone the repository (https://github.com/Fanny-Mlmrtl/Bloc_2). Then, create a virtual environment (see Environment Variables section).
 
     
 ## Environment Variables
